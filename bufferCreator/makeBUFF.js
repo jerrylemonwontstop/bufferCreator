@@ -1,4 +1,4 @@
-function bufferTHIS(input)
+function bufferThis(input)
 {
  var buffer = new Buffer(input);
  return buffer;
